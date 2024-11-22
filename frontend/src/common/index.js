@@ -1,4 +1,4 @@
-const backendDomin = "https://vshop-lilac.vercel.app"
+const backendDomin = "https://vshop-git-main-ankit-sharmas-projects-7cbad79d.vercel.app"
 
 const SummaryApi = {
     signUP : {
